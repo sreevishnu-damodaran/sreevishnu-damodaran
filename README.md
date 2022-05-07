@@ -4,7 +4,8 @@
 
 📫 How to reach me:
 
-[![linkedin.com/in/sreevishnu-damodaran](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreevishnu-damodaran) &nbsp; [![twitter.com/itzSreevishnu](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzSreevishnu) &nbsp; [![medium.com/@sreevishnu.damodaran](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sreevishnu.damodaran)
+[![kaggle.com/sreevishnudamodaran](https://img.shields.io/badge/Kaggle-0092cc?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sreevishnudamodaran) &nbsp; [![linkedin.com/in/sreevishnu-damodaran](https://img.shields.io/badge/LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreevishnu-damodaran) &nbsp; [![medium.com/@sreevishnu.damodaran](https://img.shields.io/badge/Medium-1e1c1a?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sreevishnu.damodaran) &nbsp; [![twitter.com/itzSreevishnu](https://img.shields.io/badge/Twitter-00579e?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzSreevishnu)
+
 
 <!--
 **sreevishnu-damodaran/sreevishnu-damodaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
